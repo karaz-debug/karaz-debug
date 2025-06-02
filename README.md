@@ -1,5 +1,5 @@
 # Hola! 👋  
-I'm **Abdiqafar Abukar Mohamed** from Nairobi, Kenya – an Algorithmic Trading Developer and passionate tech enthusiast!
+I'm **Karuz-debug** from Sweden – an Algorithmic Trading Developer and passionate tech enthusiast!
 
 ## 💡 About Me...
 I'm all about turning complex trading strategies into efficient, automated systems. With 6 years of experience in forex, futures, and crypto markets, I've mastered everything from **momentum** and **mean reversion** strategies to **ICT Smart Money Concepts**. Python is my go-to language, and I love working on real-time data integration and backend development. Oh, and I'm always up for a good tech challenge or a new collaboration!

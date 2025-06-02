@@ -10,9 +10,8 @@ I'm all about turning complex trading strategies into efficient, automated syste
 - 🌱 Always learning, especially about AI, cloud solutions, and cutting-edge financial strategies.
 
 ## 🌐 Connect with Me!
-- **LinkedIn**: [Abdiqafar Abukar Mohamed](https://www.linkedin.com/in/abdiqafar-abukar-mohamed-)
 - **GitHub**: [karaz-debug](https://github.com/karaz-debug)
-- **Email**: [abdiqafartraderabukar@gmail.com](mailto:abdiqafartraderabukar@gmail.com)
+- **Email**: [mohamedabdulrahaman22@gmail.com](mailto:mohamedabdulrahaman22@gmail.com)
 
 ## 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

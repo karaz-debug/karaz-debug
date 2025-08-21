@@ -11,7 +11,7 @@ I'm all about turning complex trading strategies into efficient, automated syste
 
 ## 🌐 Connect with Me!
 - **GitHub**: [karaz-debug](https://github.com/karaz-debug)
-- **Email**: [abdiqafartraderabukar@gmail.com](mailto:mohamedabdulrahaman22@gmail.com)
+- **Email**: (mailto:mohamedabdulrahaman22@gmail.com)
 
 ## 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

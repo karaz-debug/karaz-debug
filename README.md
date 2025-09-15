@@ -23,7 +23,7 @@ I'm all about turning complex trading strategies into efficient, automated syste
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📈 GitHub Stats
-![Abdiqafar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karaz-debug&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karaz-debug&layout=compact&theme=radical)
 
 ## 🌍 Visitors Count
